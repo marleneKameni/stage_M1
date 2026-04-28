@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 .positai
+
+# fichiers de travails
+*.html
+*.pdf
+*_files/
